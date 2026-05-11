@@ -357,5 +357,10 @@ input[type="submit"] {
 	height: 650px;
 	object-fit: cover;
 	display: block;
+}.carousel-item img {
+	width: 100%;
+	height: 650px;
+	object-fit: cover;
+	display: block;
 }
 
